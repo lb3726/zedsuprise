@@ -6,7 +6,7 @@ A static, single-page web app hosted on Cloudflare Pages.
 
 ## Overview
 
-A dependency-free, media-rich site: one long-scroll page of photo galleries, native video, and interactive widgets, served as static assets with a little edge logic on top. No framework and no build step — hand-written HTML, CSS, and vanilla JavaScript, with imagery and video delivered from Cloudflare R2.
+A dependency-free, media-rich site: one long-scroll page of photo galleries, native video, and interactive widgets, served as static assets with a little edge logic on top. No framework and no build step — HTML, CSS, and vanilla JavaScript, with imagery and video delivered from Cloudflare R2.
 
 ## Stack
 
